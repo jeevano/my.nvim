@@ -33,6 +33,7 @@ return {
 				"lua_ls",
 				"pyright",
 				"rust_analyzer",
+				"java_language_server",
 			},
 		})
 
